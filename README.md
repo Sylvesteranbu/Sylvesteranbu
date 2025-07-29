@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **YOUTUBE**
 
-- 🤝 I’m looking for help with **IELTS**
+
 
 - 💬 Ask me about **gaming**
 
