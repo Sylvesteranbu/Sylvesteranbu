@@ -1,5 +1,5 @@
 <h1 align="center">HI 🙋🏼‍♂️ It's me Sylvester</h1>
-<h3 align="center">Bsc IN Computer Science (III-year)</h3>
+<h3 align="center">Bsc IN Computer Science (complited)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylvesteranbu" alt="sylvesteranbu" /></a> </p>
 <p align="left"> <a href="https://www.youtube.com/@blackdreams6658" target="blank"><img src="https://img.shields.io/twitter/follow/BLACKDREAMS?logo=twitter&style=for-the-badge" alt="BLACKDREAMS" /></a> </p>
