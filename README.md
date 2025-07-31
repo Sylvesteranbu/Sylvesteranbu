@@ -13,7 +13,7 @@
 
 
 
-- 💬 Ask me about **gaming**
+- 💬 Ask me about **games**
 
 - ⚡ Fun fact **I have 20+ RPG Games 😁**
 
