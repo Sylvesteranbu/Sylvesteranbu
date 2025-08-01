@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **mini project**
 - 🔍 Here's my [portfolio](https://github.com/Sylvesteranbu)
-- 🌱 I’m currently learning **IELTS , C**
+- 🌱 I’m currently learning **tryhackme , **
 
 - 👯 I’m looking to collaborate on **YOUTUBE**
 
