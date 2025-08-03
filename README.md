@@ -1,4 +1,4 @@
-<h1 align="center">HI 🙋🏼‍♂️ It's me Sylvester</h1>
+<h1 align="center">HI 🙋🏼‍♂️ It's me Sylvester J </h1>
 <h3 align="center">Bsc IN Computer Science (complited)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylvesteranbu" alt="sylvesteranbu" /></a> </p>
