@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **YOUTUBE**
 
-
+- planing to do master in Msc in cybersecurity
 
 - 💬 Ask me about **games**
 
