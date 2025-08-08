@@ -9,7 +9,7 @@
 - 🔍 Here's my [portfolio](https://github.com/Sylvesteranbu)
 - 🌱 I’m currently learning **tryhackme , networking **
 
-- 👯 I’m looking to collaborate on **YOUTUBE __**
+- 👯 I’m looking to collaborate on **YOUTUBE **
 
 - planing to do master in Msc in cybersecurity a
 
