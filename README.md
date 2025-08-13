@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **tryhackme , networking **
 
 - 👯 I’m looking to collaborate on **YOUTUBE2**
+- i dont know about consistency
+- 
 
 - planing to do master in Msc in cybersecurity a
 
