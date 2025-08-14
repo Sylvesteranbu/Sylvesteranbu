@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **YOUTUBE2**
 - i dont know about consistency
-- 
+- asjfpeijf;
 
 - planing to do master in Msc in cybersecurity a
 
