@@ -9,7 +9,7 @@
 - 🔍 Here's my [portfolio](https://github.com/Sylvesteranbu)
 - 🌱 I’m currently learning **tryhackme , networking **
 
-- 👯 I’m looking to collaborate on **YOUTUBE2**
+- 👯 I’m looking to collaborate on **YOUTUBE2**ad
 - i dont know about consistency
 - asjfpeijf;
 
