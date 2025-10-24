@@ -6,7 +6,7 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 I’m currently working on **mini project**
-- 🔍 Here's my [portfolio](https://github.com/Sylvesteranbu)
+- 🔍 Here's my [portfolio](bit.ly/sylvester-hub )
 - 🌱 I’m currently learning **tryhackme , networking **
 
 - 👯 I’m looking to collaborate on **YOUTUBE2**ad
